@@ -1,0 +1,6 @@
+# app-ads.txt for Bear Pong 3D
+# Replace PUB_ID below with your AdMob Publisher ID (format: pub-1234567890123456)
+# Keep the last field EXACTLY as shown.
+google.com, pub-5224452754431865, DIRECT, f08c47fec0942fa0
+# If you add mediation later, append the official lines from each network below.
+# One entry per line. Comments can start with '#'. Plain UTF-8 only.
